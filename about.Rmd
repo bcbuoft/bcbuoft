@@ -1,0 +1,14 @@
+
+```{r, echo=FALSE, out.width = "80%", out.extra='style="float:center; margin:10px 10px"'}
+knitr::include_graphics("files/banner.png") 
+```
+
+## About the BCBSU
+
+Lorem ipsum dolor sit amet, cum id alii utroque, sea no nisl graeco persecuti. Nam et salutandi definitionem, sea vero postea constituam ad. Homero putant torquatos nec id, quis choro dissentias in his, mea ex quaeque detraxit elaboraret. Exerci option feugait usu at, ad assum doming nominati nec. At falli scribentur cum.
+
+Ex vis tation numquam, quodsi oportere ne sed. Odio exerci tritani est ei. Agam oportere ius cu. Oratio labitur officiis at sea, tractatos partiendo euripidis eum et, amet elit consequuntur ut mea. Partem corpora ea sea, te melius eruditi maiorum has, at eum tollit sanctus. Ei consul detraxit eum, illum docendi mediocritatem qui eu.
+
+
+
+

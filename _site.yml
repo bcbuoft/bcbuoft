@@ -1,0 +1,23 @@
+name: "bcbsu-site"
+output_dir: "docs"
+navbar:
+  title: BCBSU UofT
+  left:
+    - text: Home
+      icon: fa-home
+      href: index.html
+    - icon: fa-facebook-square
+      href: about.html
+    - text: slack
+      icon: fa-slack
+      href: https://bcbsu.slack.com/signup
+  right:
+    - text: About
+      icon: fa-info
+      href: about.html
+    - text: Constitution
+      icon: fa-file-pdf
+      href: files/constitution.pdf
+output:
+    html_document:
+        css: bootstrap.css
