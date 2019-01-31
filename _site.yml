@@ -6,8 +6,9 @@ navbar:
     - text: Home
       icon: fa-home
       href: index.html
-    - icon: fa-facebook-square
-      href: about.html
+    - text: facebook
+      icon: fa-facebook-square
+      href: https://www.facebook.com/BCBSU.UofT
     - text: slack
       icon: fa-slack
       href: https://bcbsu.slack.com/signup
