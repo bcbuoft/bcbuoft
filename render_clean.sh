@@ -9,7 +9,6 @@ cd ~/Documents/bcbuoft/docs/
 #clean up unwanted rendered files
 rm README.html
 rm render_clean.sh
-rm bootstrap.css
 
 #hack fix page titles
 
