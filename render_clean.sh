@@ -26,7 +26,7 @@ ex -s -c '14i|<title>BCBSU - about</title>' -c x about.html
 LIST=*.html
 for file in $LIST
 do 
-ex -s -c '13i|<link rel="icon" href="https://bcbuoft.github.io/files/favicon.ico"/>' -c x $file
+ex -s -c '13i|<link rel="icon" href="https://bcbuoft.github.io/bcbuoft/files/favicon.ico"/>' -c x $file
 done
 
 
